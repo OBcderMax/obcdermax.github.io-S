@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
     <title>啥啊</title>
-    <updated>2021-09-02T03:51:02.771Z</updated>
+    <updated>2021-09-02T03:56:43.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
@@ -11,45 +11,19 @@
     <icon>https://obcdermax.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 啥啊</rights>
     <entry>
-        <title type="html"><![CDATA[qw]]></title>
+        <title type="html"><![CDATA[没有什么技术含量的Markdown瀑布式流水账试作体]]></title>
         <id>https://obcdermax.github.io/post/qw/</id>
         <link href="https://obcdermax.github.io/post/qw/">
         </link>
         <updated>2021-09-02T03:37:54.000Z</updated>
-        <content type="html"><![CDATA[<p>????<br>
-s</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://obcdermax.github.io/post/hello-gridea/</id>
-        <link href="https://obcdermax.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<h1 id="正文废话">正文(废话)</h1>
+<p>网络连接测试<br>
+访问百度<a href="https://www.baidu.com">baidu.com</a>访问不了来打我。</p>
+<h3 id="主要想表达的是">主要想表达的是：</h3>
+<pre><code class="language-markdown">- CptMaxwell牛逼！！！！！！！！！！！！！
+</code></pre>
+<h3 id="技术支持-与-联系方式">技术支持 与 联系方式</h3>
+<p>对页面感到有所疑问? 加联系方式<a href="https://qm.qq.com/cgi-bin/qm/qr?k=W5r1vAj19XCR-weGaFsOWJfxe9Co32Sg&amp;noverify=0">QQ:1023460291</a> 或者 <a href="https://jq.qq.com/?_wv=1027&amp;k=eYUOp8ZW">联系支持QQ群[Sharing'sEnd]</a> 我们会帮你解决问题.</p>
 ]]></content>
     </entry>
 </feed>
