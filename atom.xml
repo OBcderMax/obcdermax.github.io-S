@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
     <title>仅仅作为测试用的缺乏交互的一个拉闸站</title>
-    <updated>2021-09-02T04:01:36.349Z</updated>
+    <updated>2021-09-02T05:13:42.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
@@ -12,11 +12,12 @@
     <rights>All rights reserved 2021, 仅仅作为测试用的缺乏交互的一个拉闸站</rights>
     <entry>
         <title type="html"><![CDATA[没有什么技术含量的Markdown瀑布式流水账试作体]]></title>
-        <id>https://obcdermax.github.io/post/qw/</id>
-        <link href="https://obcdermax.github.io/post/qw/">
+        <id>https://obcdermax.github.io/post/frist of first/</id>
+        <link href="https://obcdermax.github.io/post/frist of first/">
         </link>
         <updated>2021-09-02T03:37:54.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="正文废话">正文(废话)</h1>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="正文废话">正文(废话)</h1>
 <p>网络连接测试<br>
 访问百度<a href="https://www.baidu.com">baidu.com</a>访问不了来打我。</p>
 <h3 id="主要想表达的是">主要想表达的是：</h3>
