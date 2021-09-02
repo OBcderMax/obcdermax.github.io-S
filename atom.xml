@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
-    <title>啥啊</title>
-    <updated>2021-09-02T03:56:43.516Z</updated>
+    <title>仅仅作为测试用的缺乏交互的一个拉闸站</title>
+    <updated>2021-09-02T03:57:36.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>能打开就是最大的胜利</subtitle>
     <logo>https://obcdermax.github.io/images/avatar.png</logo>
     <icon>https://obcdermax.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 啥啊</rights>
+    <rights>All rights reserved 2021, 仅仅作为测试用的缺乏交互的一个拉闸站</rights>
     <entry>
         <title type="html"><![CDATA[没有什么技术含量的Markdown瀑布式流水账试作体]]></title>
         <id>https://obcdermax.github.io/post/qw/</id>
