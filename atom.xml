@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
     <title>Alpha Test 2021-09</title>
-    <updated>2021-09-03T05:08:26.153Z</updated>
+    <updated>2021-09-03T05:40:41.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://obcdermax.github.io/images/avatar.png</logo>
     <icon>https://obcdermax.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Alpha Test 2021-09</rights>
+    <entry>
+        <title type="html"><![CDATA[Blog索引]]></title>
+        <id>https://obcdermax.github.io/post/suo-yin/</id>
+        <link href="https://obcdermax.github.io/post/suo-yin/">
+        </link>
+        <updated>2021-09-03T05:36:24.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="">📑</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[几个几乎不重要的改动]]></title>
         <id>https://obcdermax.github.io/post/yi-ge-ji-hu-bu-ke-jian-de-gai-dong/</id>
