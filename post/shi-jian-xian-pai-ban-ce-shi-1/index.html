@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
     <meta charset="utf-8"/>
 <meta name="description" content=""/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title>搜索 - Alpha Test 2021-09</title>
+<title>时间线排版测试1 | Alpha Test 2021-09</title>
 
 <link rel="shortcut icon" href="https://obcdermax.github.io/favicon.ico?v=1630767379485">
 
@@ -27,21 +25,11 @@
 
 
 
-    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.0/dist/fuse.basic.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/ejs@3.1.3/ejs.min.js"></script>
-    <script src="https://obcdermax.github.io/media/gridea-search/gridea-search.js"></script>
-    <script src="https://obcdermax.github.io/media/gridea-search/result-template.ejs" type="text/ejs"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.css">
 </head>
-
 <body>
-    <style>
-        .searched-keyword {
-            background-color: yellow;
-            color: red;
-        }
-    </style>
-    <div class="main gt-bg-theme-color-first">
-        <nav class="navbar navbar-expand-lg">
+<div class="main gt-bg-theme-color-first">
+    <nav class="navbar navbar-expand-lg">
     <div class="navbar-brand">
         <img class="user-avatar" src="/images/avatar.png" alt="头像">
         <div class="site-name gt-c-content-color-first">
@@ -105,16 +93,81 @@
     </div>
 </nav>
 
-        <div id="gridea-search-result" data-update="1630767379485">
-            <div class="searching" style="font-size: 18px; margin-top: 50px;">
-                <i class="fa fa-sync-alt fa-spin"></i>&nbsp;&nbsp;搜索中......
-                <br><br>
-                <span style="font-size: 65%; color: #aaa">第一次搜索可能需要耗费较长时间构建索引，请耐心等待...</span>
-            </div>
-            <div class="no-result" style="display:none; font-size: 20px; margin-top: 50px;">
-                <i class="fa fa-exclamation-triangle"></i>&nbsp;&nbsp;未搜索到相关文章，请更换关键词
-            </div>
+    <div class="post-container">
+        <div class="post-detail gt-bg-theme-color-second">
+            <article class="gt-post-content">
+                <h2 class="post-title">
+                    时间线排版测试1
+                </h2>
+                <div class="post-info">
+                    <time class="post-time gt-c-content-color-first">
+                        · 2021-09-04 22:50:14 ·
+                    </time>
+                    
+                        <a href="https://obcdermax.github.io/tag/MO24dYXAE/" class="post-tags">
+                            # Timeline
+                        </a>
+                    
+                </div>
+                <div class="post-content">
+                    <p>来源:快科技</p>
+<p>近日，天津@平安武清 民警接银行报警称，一大娘执意要向未知账户转账2万。</p>
+<p>面对大家劝说，大娘仍对微信中的美国“男朋友”深信不疑。“喂，是麦克吗？我是杰克！”民警拨通其“男友”语音，听筒中竟传出流利的中文，听出民警的调侃，“美国男友”立即挂断了电话。</p>
+<p>有网友为民警的幽默点赞，并直言真是太有趣： 你是迈克吗 我是杰克 哈哈哈哈哈......</p>
+<p>还有网友调侃称，天津真的随时群口，天津职业说相声的特别努力 否则一不小心就会被老百姓超越……</p>
+<p>最后，民警也是提醒大家，只要涉及钱财转账的，一定要慎之又慎，不要轻易相信任何人。</p>
+
+                </div>
+            </article>
         </div>
+
+        
+            <div class="next-post">
+                <div class="next gt-c-content-color-first">下一篇</div>
+                <a href="https://obcdermax.github.io/post/shi-jian-mo-kuai-ge-shi-ce-shi/" class="post-title gt-a-link">
+                    时间模块格式测试
+                </a>
+            </div>
+        
+
+        
+            <span id="/post/shi-jian-xian-pai-ban-ce-shi-1/" class="leancloud_visitors" data-flag-title="时间线排版测试1">
+                <em class="post-meta-item-text">阅读量 </em>
+                <i class="leancloud-visitors-count">0</i>
+            </span>
+        
+
+        
+
+        
+            <script src='https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'></script>
+
+<style>
+	div#vcomments{
+		width:100%;
+		max-width: 1000px;
+		padding: 2.5%
+	}
+</style>
+
+
+	<div id="vcomments"></div>
+
+<script>
+	new Valine({
+		el: '#vcomments',
+		appId: 'hveeAPU0pEyshO1TLaJHnpMt-MdYXbMMI',
+		appKey: 'dkSEACJfWW1Rn5012ceWPK3O',
+		avatar: 'wavatar',
+		pageSize: 5,
+		recordIp: true,
+		placeholder: 'Jot Anythoughts',
+		visitor: true,
+	});
+</script>
+
+        
+
         <div class="site-footer gt-c-content-color-first">
     <div class="slogan gt-c-content-color-first">Eeeeeexcelsior!</div>
     <div class="social-container">
@@ -145,6 +198,6 @@
 </script>
 
     </div>
+</div>
 </body>
-
 </html>
