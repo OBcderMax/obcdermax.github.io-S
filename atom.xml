@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
     <title>Alpha Test 2021-09</title>
-    <updated>2021-09-06T08:18:03.044Z</updated>
+    <updated>2021-09-06T10:45:23.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
@@ -12,20 +12,29 @@
     <rights>All rights reserved 2021, Alpha Test 2021-09</rights>
     <entry>
         <title type="html"><![CDATA[ ]]></title>
-        <id>https://obcdermax.github.io/post/1/</id>
-        <link href="https://obcdermax.github.io/post/1/">
+        <id>https://obcdermax.github.io/post/</id>
+        <link href="https://obcdermax.github.io/post/">
         </link>
-        <updated>2021-09-06T08:14:58.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://obcdermax.github.io/post-images/1630916113184.JPG" alt="" loading="lazy"></figure>
+        <updated>2021-09-06T08:27:59.000Z</updated>
+        <content type="html"><![CDATA[<p>无标题博文测试</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ ]]></title>
-        <id>https://obcdermax.github.io/post/</id>
-        <link href="https://obcdermax.github.io/post/">
+        <id>https://obcdermax.github.io/post/2/</id>
+        <link href="https://obcdermax.github.io/post/2/">
         </link>
-        <updated>2021-09-06T08:14:11.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://obcdermax.github.io/post-images/1630916057320.JPG" alt="" loading="lazy"></figure>
+        <updated>2021-09-06T08:27:59.000Z</updated>
+        <content type="html"><![CDATA[<p>无标题博文测试</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无题]]></title>
+        <id>https://obcdermax.github.io/post/wu-ti/</id>
+        <link href="https://obcdermax.github.io/post/wu-ti/">
+        </link>
+        <updated>2021-09-06T08:14:58.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://obcdermax.github.io/post-images/1630916113184.JPG" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -121,16 +130,6 @@ YYYY-MM-DD HH:mm:ss</li>
 <li>发布时间(北京时间)<br>
 2021-09-04 22:20+n秒</li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog索引]]></title>
-        <id>https://obcdermax.github.io/post/suo-yin/</id>
-        <link href="https://obcdermax.github.io/post/suo-yin/">
-        </link>
-        <updated>2021-09-03T05:36:24.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="">📑</h1>
-<p><a href="/post/ye-mian-zhi-nan/">页面指南</a></p>
 ]]></content>
     </entry>
 </feed>
