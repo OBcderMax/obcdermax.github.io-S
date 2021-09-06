@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
     <title>Alpha Test 2021-09</title>
-    <updated>2021-09-06T07:40:24.851Z</updated>
+    <updated>2021-09-06T07:41:35.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
@@ -10,28 +10,6 @@
     <logo>https://obcdermax.github.io/images/avatar.png</logo>
     <icon>https://obcdermax.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Alpha Test 2021-09</rights>
-    <entry>
-        <title type="html"><![CDATA[页面指南]]></title>
-        <id>https://obcdermax.github.io/post/ye-mian-zhi-nan/</id>
-        <link href="https://obcdermax.github.io/post/ye-mian-zhi-nan/">
-        </link>
-        <updated>2021-09-06T06:06:34.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>理想的操作逻辑</li>
-</ul>
-<ol>
-<li>进入首页。</li>
-<li>Blog索引页面为置顶状态。</li>
-<li><a href="https://obcdermax.github.io/tag/MO24dYXAE/">#Timeline</a> 为主要博文内容分类。
-<ul>
-<li>选择<a href="https://obcdermax.github.io/tag/MO24dYXAE/">#Timeline</a> 浏览主要博文。</li>
-<li>在首页浏览所有默认内容。</li>
-<li>进入主菜单<a href="https://obcdermax.github.io/tags/">标签</a> 页面选择具体分类进行浏览。</li>
-</ul>
-</li>
-</ol>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Patch 21-09-06]]></title>
         <id>https://obcdermax.github.io/post/patch-21-09-06/</id>
@@ -171,6 +149,33 @@ YYYY-MM-DD HH:mm:ss</li>
 </code></pre>
 <p>几个比较小的点。</p>
 <p>PS:修改了一个独立页面的根目录定向问题<a href="https://obcdermax.github.io/Gridea-Intro/">Gridea-Intro</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[评论功能测试区]]></title>
+        <id>https://obcdermax.github.io/post/ping-lun-gong-neng-ce-shi-qu/</id>
+        <link href="https://obcdermax.github.io/post/ping-lun-gong-neng-ce-shi-qu/">
+        </link>
+        <updated>2021-09-02T07:37:42.000Z</updated>
+        <content type="html"><![CDATA[<p>畅所欲言，目前没有注册功能，每次发言都可以是独立人格。<br>
+⚠️仅做为测试模块，不定期删除⚠️。</p>
+<h2 id="qa">Q&amp;A</h2>
+<p>🙋🙋‍♂</p>
+<h2 id="为什么还没有注册功能">为什么还没有注册功能？</h2>
+<p>因为博主比较懒比较笨，就。。还没学会(尬住)。。😅</p>
+<h2 id="如何留言">如何留言？</h2>
+<ul>
+<li>填写昵称 邮箱 和自定义网址 (可以不填，会默认为[Anonymous]🎩)</li>
+<li>在输入框中输入留言内容</li>
+<li>选择或不选择表情😃</li>
+<li>点击提交</li>
+</ul>
+<p>🚧🚧🚧🚧🚧🚧🚧🚧</p>
+<pre><code class="language-markdown">记录IP 浏览器 和增加阅读次数计数
+更多功能未知😳
+</code></pre>
+<p>🚧🚧🚧🚧🚧🚧🚧🚧</p>
+<p>对页面感到有所疑问? 加联系方式<a href="https://qm.qq.com/cgi-bin/qm/qr?k=W5r1vAj19XCR-weGaFsOWJfxe9Co32Sg&amp;noverify=0">QQ:1023460291</a> 或者 <a href="https://jq.qq.com/?_wv=1027&amp;k=eYUOp8ZW">联系支持QQ群[Sharing'sEnd]</a> 我们会帮你解决问题.</p>
 ]]></content>
     </entry>
 </feed>
