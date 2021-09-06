@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
     <title>Alpha Test 2021-09</title>
-    <updated>2021-09-06T06:10:58.784Z</updated>
+    <updated>2021-09-06T07:39:49.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
@@ -134,6 +134,7 @@ YYYY-MM-DD HH:mm:ss</li>
         </link>
         <updated>2021-09-03T05:36:24.000Z</updated>
         <content type="html"><![CDATA[<h1 id="">📑</h1>
+<p><a href="/post/ye-mian-zhi-nan/">页面指南</a></p>
 ]]></content>
     </entry>
     <entry>
