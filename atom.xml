@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
     <title>Alpha Test 2021-09</title>
-    <updated>2021-09-06T08:00:00.583Z</updated>
+    <updated>2021-09-06T08:16:32.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://obcdermax.github.io/images/avatar.png</logo>
     <icon>https://obcdermax.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Alpha Test 2021-09</rights>
+    <entry>
+        <title type="html"><![CDATA[ ]]></title>
+        <id>https://obcdermax.github.io/post/1/</id>
+        <link href="https://obcdermax.github.io/post/1/">
+        </link>
+        <updated>2021-09-06T08:14:58.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://obcdermax.github.io/post-images/1630916113184.JPG" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ ]]></title>
+        <id>https://obcdermax.github.io/post/</id>
+        <link href="https://obcdermax.github.io/post/">
+        </link>
+        <updated>2021-09-06T08:14:11.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://obcdermax.github.io/post-images/1630916057320.JPG" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patch 21-09-06]]></title>
         <id>https://obcdermax.github.io/post/patch-21-09-06/</id>
@@ -113,69 +131,6 @@ YYYY-MM-DD HH:mm:ss</li>
         <updated>2021-09-03T05:36:24.000Z</updated>
         <content type="html"><![CDATA[<h1 id="">📑</h1>
 <p><a href="/post/ye-mian-zhi-nan/">页面指南</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[几个几乎不重要的改动]]></title>
-        <id>https://obcdermax.github.io/post/yi-ge-ji-hu-bu-ke-jian-de-gai-dong/</id>
-        <link href="https://obcdermax.github.io/post/yi-ge-ji-hu-bu-ke-jian-de-gai-dong/">
-        </link>
-        <updated>2021-09-03T04:56:02.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="修改了网页名字-alpha-test-2021-09">修改了网页名字 - (Alpha Test 2021-09)</h1>
-<h1 id="修改了网页描述-eeeeeexcelsior">修改了网页描述 - (Eeeeeexcelsior!)</h1>
-<h1 id="通过修改footerejs批量修改了所有页面页脚的格式">通过修改footer.ejs批量修改了所有页面页脚的格式</h1>
-<pre><code class="language-markdown">&lt;div class=&quot;site-footer gt-c-content-color-first&quot;&gt;
-    &lt;div class=&quot;slogan gt-c-content-color-first&quot;&gt;&lt;%- themeConfig.siteDescription %&gt;&lt;/div&gt;
-    &lt;div class=&quot;social-container&quot;&gt;
-        &lt;% ['github', 'twitter', 'weibo', 'zhihu', 'dribbble', 'facebook'].forEach((item) =&gt; { %&gt;
-            &lt;% if (site.customConfig[item]) { %&gt;
-                &lt;a href=&quot;&lt;%= site.customConfig[item] %&gt;&quot; target=&quot;_blank&quot;&gt;
-                    &lt;i class=&quot;fab fa-&lt;%= item %&gt; gt-c-content-color-first&quot;&gt;&lt;/i&gt;
-                &lt;/a&gt;
-            &lt;% } %&gt;
-        &lt;% }) %&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;footer-info&quot;&gt;
-        &lt;%- themeConfig.footerInfo %&gt;
-    &lt;/div&gt;
-    &lt;div&gt;
-        Powered by &lt;a href=&quot;https://github.com/getgridea/gridea&quot; target=&quot;_blank&quot;&gt;Gridea | &lt;a href=&quot;&lt;%= themeConfig.domain %&gt;/atom.xml&quot; target=&quot;_blank&quot;&gt;RSS&lt;/a&gt;&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  hljs.initHighlightingOnLoad()
-&lt;/script&gt;
-</code></pre>
-<p>几个比较小的点。</p>
-<p>PS:修改了一个独立页面的根目录定向问题<a href="https://obcdermax.github.io/Gridea-Intro/">Gridea-Intro</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[评论功能测试区]]></title>
-        <id>https://obcdermax.github.io/post/ping-lun-gong-neng-ce-shi-qu/</id>
-        <link href="https://obcdermax.github.io/post/ping-lun-gong-neng-ce-shi-qu/">
-        </link>
-        <updated>2021-09-02T07:37:42.000Z</updated>
-        <content type="html"><![CDATA[<p>畅所欲言，目前没有注册功能，每次发言都可以是独立人格。<br>
-⚠️仅做为测试模块，不定期删除⚠️。</p>
-<h2 id="qa">Q&amp;A</h2>
-<p>🙋🙋‍♂</p>
-<h2 id="为什么还没有注册功能">为什么还没有注册功能？</h2>
-<p>因为博主比较懒比较笨，就。。还没学会(尬住)。。😅</p>
-<h2 id="如何留言">如何留言？</h2>
-<ul>
-<li>填写昵称 邮箱 和自定义网址 (可以不填，会默认为[Anonymous]🎩)</li>
-<li>在输入框中输入留言内容</li>
-<li>选择或不选择表情😃</li>
-<li>点击提交</li>
-</ul>
-<p>🚧🚧🚧🚧🚧🚧🚧🚧</p>
-<pre><code class="language-markdown">记录IP 浏览器 和增加阅读次数计数
-更多功能未知😳
-</code></pre>
-<p>🚧🚧🚧🚧🚧🚧🚧🚧</p>
-<p>对页面感到有所疑问? 加联系方式<a href="https://qm.qq.com/cgi-bin/qm/qr?k=W5r1vAj19XCR-weGaFsOWJfxe9Co32Sg&amp;noverify=0">QQ:1023460291</a> 或者 <a href="https://jq.qq.com/?_wv=1027&amp;k=eYUOp8ZW">联系支持QQ群[Sharing'sEnd]</a> 我们会帮你解决问题.</p>
 ]]></content>
     </entry>
 </feed>
